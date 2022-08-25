@@ -145,4 +145,10 @@ body{
     .container{
         font-size: 14px;
     }
+
+    #search-btn{
+        font-size: 11px;
+        padding: 5px ;
+        border-radius: 0.7rem;
+    }
 }
